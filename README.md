@@ -29,6 +29,8 @@ Website institucional desenvolvido para o **Beníccios Grill & Bar**, com inform
 
 ## 🚀 Como Executar
 
+https://matteopeixotooo.github.io/beniccios-bar/
+
 1. Clone o repositório:
 
 ```bash
